@@ -13,7 +13,7 @@ export default function Hero() {
             Hey there,
           </h1>
           <h1 className="mt-2 font-primary font-bold text-white text-5xl text-left">
-            I'm Yash Pande
+            I'm Harshwardhan Atkare
           </h1>
           <div className="mt-4 font-primary font-medium text-blue-500 text-4xl text-left">
             <Typewriter
