@@ -35,7 +35,7 @@ export default function Footer() {
   return (
     <footer className="relative bottom-0 left-0 w-full px-5 flex flex-col border-dashed border-t border-gray-700 mt-8 py-4 justify-center items-center md:justify-between md:flex-row">
       <div className="flex space-x-4 md:space-x-8 order-1 md:order-2">
-        <a href="https://github.com/yash797" target="_blank" rel="noreferrer">
+        <a href="https://github.com/Harshwardhan431" target="_blank" rel="noreferrer">
           <svg
             className="circled-icon"
             xmlns="http://www.w3.org/2000/svg"
@@ -47,7 +47,7 @@ export default function Footer() {
           </svg>
         </a>
         <a
-          href="https://www.linkedin.com/in/yash-pande-/"
+          href="https://www.linkedin.com/in/harshwardhan-atkare/"
           target="_blank"
           rel="noreferrer"
         >
@@ -62,7 +62,7 @@ export default function Footer() {
           </svg>
         </a>
         <a
-          href="https://www.instagram.com/yash_.pande/?hl=en"
+          href="https://www.instagram.com/atkareharsh/?hl=en"
           target="_blank"
           rel="noreferrer"
         >
@@ -92,7 +92,7 @@ export default function Footer() {
           </svg>
         </a> */}
         <a
-          href="mailto:yashpande2002@gmail.com"
+          href="mailto:atkareharsh@gmail.com"
           target="_blank"
           rel="noreferrer"
         >
@@ -114,7 +114,7 @@ export default function Footer() {
           <span className="font-thin" role="img" aria-label="emoji">
             ❤️
           </span>{" "}
-          by Yash Pande.
+          by Harshwardhan Atkare.
         </p>
         {/* <p className="font-secondary font-semibold text-gray-500 text-center md:text-left text-md">
           Website Visits: {visits}

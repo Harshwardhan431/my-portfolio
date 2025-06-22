@@ -2,7 +2,7 @@ import Fade from "react-reveal/Fade";
 import { Link } from "react-router-dom";
 import React from "react";
 import Typewriter from "typewriter-effect";
-import photo from "../../images/me.png";
+import photo from "../../images/me.jpg";
 
 export default function Hero() {
   return (
@@ -36,7 +36,7 @@ export default function Hero() {
             />
           </div>
           <h1 className="mt-4 font-secondary font-normal text-gray-400 text-xl text-left">
-          🚀 Software Engineer @ HSBC | Crafting clean code & scalable systems...
+          🚀 Software Engineer @ Wissen Technology | Crafting clean code & scalable systems...
           PICT grad with a passion for full-stack dev, cloud tech & DevOps. I love turning ideas into reliable, real-world solutions — one commit at a time.
           </h1>
           <div className="flex flex-col lg:flex-row lg:justify-around">

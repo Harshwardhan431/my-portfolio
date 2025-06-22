@@ -132,7 +132,7 @@ export default function Contact() {
           </h1>
           <div className="mt-8 space-y-4 lg:flex lg:space-x-8 lg:space-y-0">
             <div className="mx-auto flex-grow transition duration-500 ease-in-out transform hover:scale-105">
-              <a href="mailto:yashpande2002@gmail.com" rel="noreferrer">
+              <a href="mailto:atkareharsh@gmail.com" rel="noreferrer">
                 <svg
                   className="w-16 h-16 lg:w-10 lg:h-10 mx-auto fill-current text-blue-500 transition duration-500 ease-in-out transform hover:scale-105 hover:text-yellow-400"
                   xmlns="http://www.w3.org/2000/svg"
@@ -144,13 +144,13 @@ export default function Contact() {
                   Mail Me:
                 </p>
                 <p className="text-center text-gray-400 font-secondary font-medium text-lg">
-                  yashpande2002@gmail.com
+                  atkareharsh@gmail.com
                 </p>
               </a>
             </div>
 
             <div className="mx-auto flex-grow transition duration-500 ease-in-out transform hover:scale-105">
-              <a href="tel:+91 9579345348" rel="noreferrer">
+              <a href="tel:+91 9922889487" rel="noreferrer">
                 <svg
                   className="w-16 h-16 lg:w-10 lg:h-10 mx-auto fill-current text-blue-500 transition duration-500 ease-in-out transform hover:scale-105 hover:text-yellow-400"
                   xmlns="http://www.w3.org/2000/svg"
@@ -162,7 +162,7 @@ export default function Contact() {
                   Phone Me:
                 </p>
                 <p className="text-center text-gray-400 font-secondary font-medium text-lg">
-                  +91 9579345348
+                  +91 9922889487
                 </p>
               </a>
             </div>
@@ -184,7 +184,7 @@ export default function Contact() {
                   Meet Me:
                 </p>
                 <p className="text-center text-gray-400 font-secondary font-medium text-lg">
-                  Pune, Maharashtra
+                  Mumbai, Maharashtra
                 </p>
               </a>
             </div>

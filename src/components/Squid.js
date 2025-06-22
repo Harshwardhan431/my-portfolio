@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react'
-import squids from "../images/squids.png";
+import squids from "../images/acm.svg";
 import Loader from "../components/loader";
 
 const Squid = () => {

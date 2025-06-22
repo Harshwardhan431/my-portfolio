@@ -2,61 +2,43 @@
   
     {
         "date": "July 2024 - Present",
-        "title": "HSBC",
-        "subtitle": "Software Engineer",
+        "title": "Wissen Technology",
+        "subtitle": "Associate Software Engineer",
         "website": "",
         "details": [
-          "Developed and implemented the Delegate Feature for the UK entity, working on multiple endpoints such as /confirm and /propose call APIs.",
-"Contributed to carbon migration for various APIs, ensuring seamless transitions and optimized performance.",
-"Managed certificate renewals, enhancing security and compliance across services.",
-"Resolved critical bugs and performance issues, improving system reliability.",
-"Gained hands-on experience with Docker, Kubernetes, and Spring Boot, while also acquiring an overview of microservices architecture."
+          "Implemented Kafka-based event communication between microservices, enabling a loosely coupled and scalable architecture",
+          "Resolved critical production bugs and performance issues, unblocking millions of users and restoring business operations, significantly improving system reliability.",
+          "Performed Webstack migration by Dockerizing the multimode application and integrating OAuth authentication for secure connectivity",
+           "Modernized legacy Spring applications by upgrading the tech stack (Spring Boot , Java , Gradle), decoupling monolithic Spring application into independent microservices to improve scalability and maintainability and enhancing reusability with Artifactory dependencies."
         ],
-        "techStack": ["React.js", "Spring Boot", "Jenkins", "Docker"]
-      },  
-      {
-    "date": "Feb 2024 - July 2024",
-    "title": "ORO Labs",
-    "subtitle": "Software Engineering Intern",
-    "website": "",
-    "details": [
-      "Assisted in implementing localization features, making the application accessible and user-friendly for international users.",
-      "Collaborated with the development team to identify and fix UI bugs, ensuring a seamless user experience for the application.",
-      "Provided support in resolving customer-reported issues by developing satisfactory solutions to their queries, contributing to increased user satisfaction"
-    ],
-    "techStack": ["React.js", "Spring Boot"]
-  },
+        "techStack": [ "Spring Boot", "Angular" , "Kafka", "Jenkins", "Docker" , "Podman"]
+      },
   {
-    "date": "July 2023 - November 2023",
-    "title": "Fetch.ai",
+    "date": "July 2022 - October 2022",
+    "title": "MIBAIO Elmec Smart Automations Pvt Ltd",
     "subtitle": "Software Developer Intern",
-    "website": "https://fetch.ai/",
+    "website": "https://mibaio.in/#/",
     "details": [
-      "Developed Fetch.ai's main website and API documentation using Next.js and Tailwind CSS, creating a modern and user-friendly online presence.",
-      "Collaborated with the development team to implement innovative solutions, improving website functionality and user experience.",
-      "Gained valuable insights into modern web development practices and contributed to enhancing Fetch.ai’s online presence and developer experience."
+      "Developed Mibaio's main app using Flutter , creating pixel perfect,buttery smooth UIs across multiple mobile platforms",
+      "Developed a robust AWS DynamoDB backend using AWS Sync API to enchance the functionality and performance of the company's API",
+      "Collaborated with the web development team to implement innovative solutions, improving website functionality and user experience to improve Mibaio’s online presence",
+      "Gained valuable insights into modern app development practices and contributed to write refactored code."
     ],
-    "techStack": ["Next.js", "Tailwind CSS"]
+    "techStack": ["Flutter", "AWS DynamoDB" , "React.js"]
   },
   {
-    "date": "Feb 2023 - July 2023",
-    "title": "ZentrumHub",
+    "date": "June 2022 - July 2022",
+    "title": "REBERT TECHNOLOGIES PVT. LTD",
     "subtitle": "SDE Intern",
-    "website": "https://zentrumhub.com/",
+    "website": "https://rebert.in/",
     "details": [
-      "Developed and maintained AWS Lambda functions to enhance the functionality and performance of the company's APIs.",
-      "Collaborated with a cross-functional team to build and deploy Node.js and Express.js applications, utilizing AWS SNS for real-time communication within the applications.",
-      "Integrated ElasticSearch and DynamoDB to optimize data storage and retrieval processes.",
-      "Created API functions using ExpressJS and NodeJS for fetching, storing correlation IDs, and handling compressed data.",
+      "Worked on Android frontend and backend app development using Flutter, implemented beautiful UIs across the mobile platform.",
+      "Collaborated with a cross-functional team to build and deploy Flutter applications",
       "Implemented robust error handling and advanced troubleshooting techniques to ensure smooth system operation and reliability."
     ],
     "techStack": [
-      "AWS Lambda",
-      "Node.js",
-      "Express.js",
-      "AWS SNS",
-      "ElasticSearch",
-      "DynamoDB"
+      "Flutter",
+      "Firebase"
     ]
   }
 ]

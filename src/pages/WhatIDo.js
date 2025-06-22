@@ -28,30 +28,28 @@ export default function WhatIDo() {
                 Languages I Know:
               </h3>
               <p className="mt-2 font-secondary text-lg font-normal text-gray-400 text-center">
-                C++,Java, JavaScript, HTML, CSS
+                C++ ,Java ,Dart ,HTML ,CSS
               </p>
               <h3 className="mt-12 font-secondary text-lg font-medium text-blue-500 text-center">
                 Dev Tools:
               </h3>
-
+              <p className="mt-2 font-secondary text-lg font-normal text-gray-400 text-center">
+                SpringBoot
+              </p>
+              <p className="mt-2 font-secondary text-lg font-normal text-gray-400 text-center">
+                Angular
+              </p>
+              <p className="mt-2 font-secondary text-lg font-normal text-gray-400 text-center">
+                Flutter
+              </p>
+              <p className="mt-2 font-secondary text-lg font-normal text-gray-400 text-center">
+                MySQL
+              </p>
               <p className="mt-2 font-secondary text-lg font-normal text-gray-400 text-center">
                 React
               </p>
               <p className="mt-2 font-secondary text-lg font-normal text-gray-400 text-center">
                 MongoDB
-              </p>
-              <p className="mt-2 font-secondary text-lg font-normal text-gray-400 text-center">
-                Node
-              </p>
-              <p className="mt-2 font-secondary text-lg font-normal text-gray-400 text-center">
-                Ecclipse
-              </p>
-
-              <p className="mt-2 font-secondary text-lg font-normal text-gray-400 text-center">
-                MySQL
-              </p>
-              <p className="mt-2 font-secondary text-lg font-normal text-gray-400 text-center">
-                Spring
               </p>
               <p className="mt-2 font-secondary text-lg font-normal text-gray-400 text-center">
                 Git
@@ -71,43 +69,33 @@ export default function WhatIDo() {
             <Fade up>
               <div>
                 <h1 className="mt-8 font-primary text-4xl font-bold text-white text-center transition duration-500 ease-in-out transform hover:scale-105 hover:text-yellow-400">
-                  Designer
+                  Knowledge
                 </h1>
               </div>
             </Fade>
             <h3 className="mt-4 font-secondary text-lg font-normal text-gray-400 text-center">
-              I like to design beautiful things that are easy to use.
+              I have deep knowledge of core subjects and hands on experience of application tools
             </h3>
             <h3 className="mt-12 font-secondary text-lg font-medium text-blue-500 text-center">
-              Things I Design:
+              Tools :
             </h3>
             <p className="mt-2 font-secondary text-lg font-normal text-gray-400 text-center">
-              UI/UX, Web and Mobile Design, Static Graphic Design
+              Intellij, VsCode, Android Sudio
             </p>
             <h3 className="mt-12 font-secondary text-lg font-medium text-blue-500 text-center">
-              Design Tools:
+              Core Subjects:
             </h3>
             <p className="mt-2 font-secondary text-lg font-normal text-gray-400 text-center">
-              Figma
+              DSA
             </p>
             <p className="mt-2 font-secondary text-lg font-normal text-gray-400 text-center">
-              Adobe XD
+              OOP
             </p>
             <p className="mt-2 font-secondary text-lg font-normal text-gray-400 text-center">
-              Adobe Photoshop
+              DBMS
             </p>
             <p className="mt-2 font-secondary text-lg font-normal text-gray-400 text-center">
-              Adobe Illustrator
-            </p>
-            <p className="mt-2 font-secondary text-lg font-normal text-gray-400 text-center">
-              Adobe Indesign
-            </p>
-            <p className="mt-2 font-secondary text-lg font-normal text-gray-400 text-center">
-              Canva
-            </p>
-
-            <p className="mt-2 font-secondary text-lg font-normal text-gray-400 text-center">
-              Adobe Premiere Pro
+              OS
             </p>
           </div>
         </Fade>

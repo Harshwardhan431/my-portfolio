@@ -3,18 +3,18 @@ import React from "react";
 
 export default function Resume() {
   const resumeUrl =
-    "https://drive.google.com/file/d/1gfZzsIqNm0QCo7C69awyZ307pAqkl4jI/preview";
+    "https://drive.google.com/file/d/1lYExMsRmaDy2An7PauXL4-fPaT1eqxOy/view?usp=sharing";
   return (
     <div className="shadow-md max-w-5xl mx-auto mt-16 overflow-hidden rounded-lg divide-gray-800">
       <div className="h-full">
         <div className="bg-gray-800 py-6 px-6 flex justify-between items-center">
           <Fade>
             <h1 className="text-gray-300 text-md md:text-xl font-semibold font-secondary">
-              Resume | Yash
+              Resume | Harshwardhan
             </h1>
           </Fade>
           <a
-            href="https://drive.google.com/u/1/uc?id=1gfZzsIqNm0QCo7C69awyZ307pAqkl4jI&export=download"
+            href="https://drive.usercontent.google.com/u/0/uc?id=1lYExMsRmaDy2An7PauXL4-fPaT1eqxOy&export=download"
             download
           >
             <Fade>

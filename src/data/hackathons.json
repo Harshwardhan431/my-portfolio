@@ -1,57 +1,11 @@
 [
     {
-        "name": "TIAA Hackathon",
-        "position": "Winners",
-        "teamName": "TechiesO7",
-        "solution": "We developed a website called AskWiz, where users could register, create posts within different categories, engage in discussions through comments, upvotes, and downvotes, and send direct messages to other users. This platform encouraged knowledge sharing, meaningful interactions, and collaboration in a user-friendly online environment.",
-        "date": "May 2023",
-        "description": "There is a need for a platform that facilitates discussions, knowledge sharing, and collaboration among users in various categories, currently lacking in the online space.",
-        "website": "https://github.com/yash797/Tiaa-Hackathon-AskWiz"
-    },
-    {
-        "name": "Inspirion 2.0",
-        "position": "Runners Up",
-        "teamName": "Chain Reaction",
-        "solution": "Our innovative decentralized application (DApp) revolutionizes the insurance landscape for farmers. Through the use of smart contracts and real-time data from oracles, we provide farmers with a transparent, automated insurance solution. In the event of a calamity, our DApp calculates payouts based on multiple parameters, including calamity severity, deposit amounts, transaction duration, and real-time damage metrics, ensuring fair and efficient insurance coverage without the need for intermediaries.",
-        "date": "April 2023",
-        "description": "Farmers lack a dedicated platform to easily access efficient and transparent insurance, inhibiting their ability to secure reliable coverage and recover from agricultural calamities effectively.",
-        "website": "https://docs.google.com/presentation/d/1WDlYO8oszhK3hxkQngzb_8n4xiezkIU4wyJGJTMDiRw/edit?usp=sharing"
-    },
-    {
-        "name": "HackFormers",
-        "position": "Second Runners Up",
-        "teamName": "Sharingans",
-        "solution": "ProjectBuddy is a LinkedIn-like platform designed specifically for college students, built with ReactJS, Django, PostgreSQL, and integrated with the SendBird API, empowering users to connect, collaborate, and find teammates with complementary skills for hackathons and projects.",
-        "date": "March 2023",
-        "description": "College students lack a dedicated platform to easily connect, collaborate, and find teammates with complementary skills for hackathons and projects, hindering their ability to form effective teams and maximize their potential for success.",
-        "website": "https://github.com/yash797/project_buddy"
-    },
-     {
-        "name": "Webster",
-        "position": "Runners Up",
-        "teamName": "The Bounty Hunters",
-        "solution": "We propose a web-platform named The Mystery Match. This platform will serve as a bridge between Sherlock & potential assistant detectives. Assistant detectives will be able to submit their resumes & showcase their skills, experience to Sherlock through the platform. Sherlock, in turn, will be able to browse through the resumes, select the best fit for his cases, & connect with the assistant detectives directly. Also, assistant detectives will be able to see the status of their application.",
-        "date": "February 2023",
-        "description": "In today's world, detective services are in high demand, but finding the right assistant detective can be a painfully challenging task for Sherlock Holmes.",
-        "website": "https://mystery-match.netlify.app/"
-    },
-    {
-        "name": "Ideathon",
-        "position": "Second Runners Up",
-        "teamName": "Tech3bit",
-        "solution": "An AI-powered application for farmers to detect and cure plant diseases, improving crop yields and assisting the government in tracking and preventing the spread of these diseases.",
-        "date": "March 2022",
-        "description": "The PISB ideathon is an event that promotes collaboration and innovation by bringing together participants to generate ideas and find solutions to real-world challenges through brainstorming, team-building, workshops, keynote speakers, and other activities.",
-        "website": "https://ideathon.pictieee.in/"
-    },
-    {
-        "name": "Web Weaver",
-        "position": "Winners",
-        "teamName": "Team Game-X",
-        "solution": "Game-X is an application that downloads and presents information on various games from different genres.",
-        "date": "April 2022",
-        "description": "An aesthetically pleasing and user-friendly website is necessary to keep visitors engaged online. If you think you have the flair to create such a site, WebWeaver is the competition for you! A perfect integration of technology and creativity will lead you to win this competition.",
-        "website": "https://nikitak27.github.io/Web-weaver_GameX/index.html"
+        "name": "Smart India Hackathon",
+        "position": "Finalist",
+        "teamName": "Dark Nights",
+        "solution": "My role was to make intuitive user interface for desktop application and integraing face-net AI model with flutter application for face detection attendance from app.This include displaying attendance in graphical format,making beautiful UI screens,writing proper refactored code",
+        "date": "Aug 2022",
+        "description": "We made an application on Attendance Management System for recording and tracking attendance in rural areas.",
+        "website": "https://www.linkedin.com/posts/harshwardhan-atkare_smartindiahackathon2022-governmentofindia-activity-6970391910897111040-zAaM?utm_source=share&utm_medium=member_desktop&rcm=ACoAADM5oDYBvz61ZhKuSJitEztXqA4pWGwx3og"
     }
-   
 ]
