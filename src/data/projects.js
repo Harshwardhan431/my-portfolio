@@ -1,6 +1,6 @@
 import xenia from "../images/coviupdate.png";
 import courier from "../images/courierMarketplace.jpeg";
-import online from "../images/online-uni.avif";
+import online from "../images/online-uni.png";
 export const projectsData = [
   {
     name: "Online University",

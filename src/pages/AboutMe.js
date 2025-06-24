@@ -19,7 +19,7 @@ export default function AboutMe() {
       <Fade up cascade>
         <div>
           <p className="mx-auto w-full lg:w-3/4 mt-4 font-secondary font-normal text-gray-400 text-xl text-justify">
-          👋 Hey there! I’m Harshwardhan Atkare — a curious and passionate software developer with a deep-rooted love for building impactful tech. Currently working at Morgan Stanley (client location), I bring experience across full-stack development, cloud technologies and DevOps.
+          👋 Hey there! I’m Harshwardhan Atkare — a curious and passionate software developer with a deep-rooted love for building impactful tech. Currently working as a Technology Consultant at Morgan Stanley (via Wissen Technology), I bring experience across full-stack development, cloud technologies and DevOps.
             {/* <br></br>
             <br></br> */}
           </p>

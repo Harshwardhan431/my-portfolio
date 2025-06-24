@@ -1,5 +1,14 @@
 [
     {
+        "name": "Employee of the Month Award",
+        "position": "Morgan Stanley",
+        "teamName": "Modelware",
+        "solution": "Led the first successful Docker to Podman migration of 50+ applications across QA and Prod environments at Morgan Stanley.",
+        "date": "Feb 2025",
+        "description": "Addressed Docker’s security concern due to its centralized daemon architecture by adopting Podman's daemonless and rootless model, enhancing overall security.",
+        "website": ""
+    },
+    {
         "name": "Smart India Hackathon",
         "position": "Finalist",
         "teamName": "Dark Nights",

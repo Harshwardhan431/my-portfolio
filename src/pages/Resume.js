@@ -3,7 +3,7 @@ import React from "react";
 
 export default function Resume() {
   const resumeUrl =
-    "https://drive.google.com/file/d/1lYExMsRmaDy2An7PauXL4-fPaT1eqxOy/view?usp=sharing";
+    "https://drive.google.com/file/d/1G18ibOJeMB8Op2nkk49OZFlP0HEn9xYz/view";
   return (
     <div className="shadow-md max-w-5xl mx-auto mt-16 overflow-hidden rounded-lg divide-gray-800">
       <div className="h-full">
@@ -14,7 +14,7 @@ export default function Resume() {
             </h1>
           </Fade>
           <a
-            href="https://drive.usercontent.google.com/u/0/uc?id=1lYExMsRmaDy2An7PauXL4-fPaT1eqxOy&export=download"
+            href="https://drive.usercontent.google.com/u/0/uc?id=1G18ibOJeMB8Op2nkk49OZFlP0HEn9xYz&export=download"
             download
           >
             <Fade>
@@ -37,7 +37,7 @@ export default function Resume() {
           </a>
         </div>
         <iframe
-          title="Yash Pande| Resume"
+          title="Harshwardhan Atkare | Resume"
           className="w-full h-screen mx-auto"
           src={resumeUrl}
         ></iframe>

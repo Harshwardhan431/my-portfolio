@@ -7,11 +7,11 @@
         "website": "",
         "details": [
           "Implemented Kafka-based event communication between microservices, enabling a loosely coupled and scalable architecture",
-          "Resolved critical production bugs and performance issues, unblocking millions of users and restoring business operations, significantly improving system reliability.",
-          "Performed Webstack migration by Dockerizing the multimode application and integrating OAuth authentication for secure connectivity",
-           "Modernized legacy Spring applications by upgrading the tech stack (Spring Boot , Java , Gradle), decoupling monolithic Spring application into independent microservices to improve scalability and maintainability and enhancing reusability with Artifactory dependencies."
+          "Designed and implemented high-impact Delegate Feature for analyst users, integrating critical APIs like /getTaxo and /postTaxo, enabling millions of analysts to seamlessly view and update data with improved accuracy.",
+          "Resolved critical bugs and production issues, unblocking millions of users and restoring business operations, significantly improving system reliability.",
+          "Gained hands-on experience with Spring Boot, Angular , Docker, Kubernetes, Webstack, while contributing to the modernization of a large-scale legacy Spring application by transitioning it to a contemporary, industry-standard tech stack."
         ],
-        "techStack": [ "Spring Boot", "Angular" , "Kafka", "Jenkins", "Docker" , "Podman"]
+        "techStack": [ "Spring Boot", "Kafka" , "Angular" , "Jenkins", "Docker" , "Podman"]
       },
   {
     "date": "July 2022 - October 2022",
@@ -22,9 +22,9 @@
       "Developed Mibaio's main app using Flutter , creating pixel perfect,buttery smooth UIs across multiple mobile platforms",
       "Developed a robust AWS DynamoDB backend using AWS Sync API to enchance the functionality and performance of the company's API",
       "Collaborated with the web development team to implement innovative solutions, improving website functionality and user experience to improve Mibaio’s online presence",
-      "Gained valuable insights into modern app development practices and contributed to write refactored code."
+      "Integrated MQTT Client with Flutter App and ensured proper workflow of message packets"
     ],
-    "techStack": ["Flutter", "AWS DynamoDB" , "React.js"]
+    "techStack": ["Flutter", "AWS DynamoDB" , "Angular"]
   },
   {
     "date": "June 2022 - July 2022",
