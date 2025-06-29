@@ -4,8 +4,12 @@
     "url": "https://img.icons8.com/?size=100&id=90519&format=png&color=000000"
   },
   {
-    "name": "React JS",
-    "url": "https://img.icons8.com/color/192/000000/react-native.png"
+    "name": "Apache Kafka",
+    "url": "https://img.icons8.com/nolan/64/apache-kafka.png"
+  },
+  {
+    "name": "Angular JS",
+    "url": "https://img.icons8.com/color/48/angularjs.png"
   },
   {
     "name": "MySQL",
@@ -44,18 +48,10 @@
     "url": "https://img.icons8.com/color/192/000000/html-5.png"
   },
   {
-    "name": "Node JS",
-    "url": "https://img.icons8.com/color/192/000000/nodejs.png"
-  },
-  {
-    "name": "Express JS",
-    "url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
+    "name": "React JS",
+    "url": "https://img.icons8.com/color/192/000000/react-native.png"
   },
 
-  {
-    "name": "JavaScript",
-    "url": "https://img.icons8.com/color/192/000000/javascript.png"
-  },
   {
     "name": "C++",
     "url": "https://img.icons8.com/color/192/000000/c-plus-plus-logo.png"
@@ -63,6 +59,10 @@
   {
     "name": "Java",
     "url": "https://img.icons8.com/color/192/000000/java-coffee-cup-logo.png"
+  },
+  {
+    "name": "Python",
+    "url": "https://img.icons8.com/color/48/python--v1.png"
   },
   {
     "name": "Dart",

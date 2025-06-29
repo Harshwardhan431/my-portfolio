@@ -16,7 +16,7 @@ export const projectsData = [
   {
     name: " PICT SPORT APP",
     description:
-      "Aim of this app is to digitalize the system of the Sports Department of our college .Features included :‑ Sports event announcements, Equipment availability , Group Chat functionality,Calendar displaying event dates",
+      "Aim of this app is to digitalize the system of the Sports Department of college .Having 150+ downloads. Features :‑ Sports event announcements, Equipment availability , Group Chat functionality,Calendar displaying event dates",
     image: courier,
     code: "",
     techStack: [

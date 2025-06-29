@@ -1,7 +1,7 @@
 import { NavLink, useLocation } from "react-router-dom";
 
 import React from "react";
-import logo from "../../images/portfolio-logo-white.png";
+import logo from "../../images/Harshwardhsn.png";
 import { useState } from "react";
 
 export default function NavBar() {
@@ -37,7 +37,7 @@ export default function NavBar() {
       <NavLink to="/">
         <img
           src={logo}
-          className="max-h-12 sm:max-h-16 md:max-h-20 xl:max-h-24 transition duration-500 ease-in-out transform hover:scale-105"
+          className="max-h-8 sm:max-h-6 md:max-h-8 xl:max-h-12 transition duration-500 ease-in-out transform hover:scale-105"
           alt="Logo"
         />
       </NavLink>

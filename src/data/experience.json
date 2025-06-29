@@ -6,7 +6,7 @@
         "subtitle": "Associate Software Engineer",
         "website": "",
         "details": [
-          "Implemented Kafka-based event communication between microservices, enabling a loosely coupled and scalable architecture",
+          "Implemented Kafka-based event-driven communication between microservices, handling over 10,000 events per day and enabling a loosely coupled, scalable, and fault-tolerant architecture.",
           "Designed and implemented high-impact Delegate Feature for analyst users, integrating critical APIs like /getTaxo and /postTaxo, enabling millions of analysts to seamlessly view and update data with improved accuracy.",
           "Resolved critical bugs and production issues, unblocking millions of users and restoring business operations, significantly improving system reliability.",
           "Gained hands-on experience with Spring Boot, Angular , Docker, Kubernetes, Webstack, while contributing to the modernization of a large-scale legacy Spring application by transitioning it to a contemporary, industry-standard tech stack."
@@ -17,7 +17,7 @@
     "date": "July 2022 - October 2022",
     "title": "MIBAIO Elmec Smart Automations Pvt Ltd",
     "subtitle": "Software Developer Intern",
-    "website": "https://mibaio.in/#/",
+    "website": "https://play.google.com/store/apps/details?id=com.MIBAiO.mibaio_alpha&hl=en_IN",
     "details": [
       "Developed Mibaio's main app using Flutter , creating pixel perfect,buttery smooth UIs across multiple mobile platforms",
       "Developed a robust AWS DynamoDB backend using AWS Sync API to enchance the functionality and performance of the company's API",

@@ -3,7 +3,8 @@ import React from "react";
 
 export default function Resume() {
   const resumeUrl =
-    "https://drive.google.com/file/d/1G18ibOJeMB8Op2nkk49OZFlP0HEn9xYz/view";
+    "https://drive.google.com/file/d/1rovbuTpBH80Cb0htnpES8f8N7wmUtanw/preview";
+    //https://drive.google.com/file/d/1gfZzsIqNm0QCo7C69awyZ307pAqkl4jI/preview
   return (
     <div className="shadow-md max-w-5xl mx-auto mt-16 overflow-hidden rounded-lg divide-gray-800">
       <div className="h-full">
