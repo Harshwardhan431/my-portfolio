@@ -1,6 +1,5 @@
 import Fade from "react-reveal/Fade";
 import { Link } from "react-router-dom";
-import React from "react";
 import Typewriter from "typewriter-effect";
 import photo from "../../images/me.jpg";
 
@@ -58,7 +57,7 @@ export default function Hero() {
           <img
             src={photo}
             className="overflow-hidden rounded-full shadow-2xl mt-8 lg:mt-0 "
-            alt="Yash"
+            alt="Harshwardhan"
           />
         </div>
       </Fade>
