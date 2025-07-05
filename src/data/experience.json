@@ -6,12 +6,12 @@
         "subtitle": "Associate Software Engineer",
         "website": "",
         "details": [
-          "Implemented Kafka-based event-driven communication between microservices, handling over 10,000 events per day and enabling a loosely coupled, scalable, and fault-tolerant architecture.",
+          "Implemented Kafka-based event-driven communication between Spring Boot microservices built on MVC architecture, handling over 10,000 events per day and enabling a loosely coupled, scalable, and fault-tolerant system.",
           "Designed and implemented high-impact Delegate Feature for analyst users, integrating critical APIs like /getTaxo and /postTaxo, enabling millions of analysts to seamlessly view and update data with improved accuracy.",
           "Resolved critical bugs and production issues, unblocking millions of users and restoring business operations, significantly improving system reliability.",
-          "Gained hands-on experience with Spring Boot, Angular , Docker, Kubernetes, Webstack, while contributing to the modernization of a large-scale legacy Spring application by transitioning it to a contemporary, industry-standard tech stack."
+          "Gained hands-on experience with Spring Boot, Angular , Docker, Kubernetes, Webstack, Snowflake while contributing to the modernization of a large-scale legacy Spring application by transitioning it to a contemporary, industry-standard tech stack."
         ],
-        "techStack": [ "Spring Boot", "Kafka" , "Angular" , "Jenkins", "Docker" , "Podman"]
+        "techStack": [ "Spring Boot", "Kafka" , "Angular" , "Snowflake" , "Jenkins", "Docker" , "Podman"]
       },
   {
     "date": "July 2022 - October 2022",
