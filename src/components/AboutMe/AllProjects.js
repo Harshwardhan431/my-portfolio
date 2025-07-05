@@ -9,7 +9,7 @@ export default function Projects() {
       <Fade up>
         <div>
           <a
-            href="https://www.github.com/yash797"
+            href="https://github.com/Harshwardhan431"
             target="_blank"
             rel="noreferrer"
           >
