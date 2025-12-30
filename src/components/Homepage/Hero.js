@@ -1,7 +1,7 @@
 import Fade from "react-reveal/Fade";
 import { Link } from "react-router-dom";
 import Typewriter from "typewriter-effect";
-import photo from "../../images/me1.jpeg";
+import photo from "../../images/me1.jpg";
 
 export default function Hero() {
   return (
