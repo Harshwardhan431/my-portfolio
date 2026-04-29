@@ -35,7 +35,7 @@ export default function Hero() {
             />
           </div>
           <h1 className="mt-4 font-secondary font-normal text-gray-400 text-xl text-left">
-          🚀 Technology Consultant at Morgan Stanley (via Wissen Technology) | Crafting clean code & scalable systems...
+          🚀 Immediate Joiner, Lwd: 25th May. Technology Consultant at Morgan Stanley (via Wissen Technology) | Crafting clean code & scalable systems...
           PICT grad with a passion for full-stack dev, cloud tech & DevOps. I love turning ideas into reliable, real-world solutions — one commit at a time.
           </h1>
           <div className="flex flex-col lg:flex-row lg:justify-around">
